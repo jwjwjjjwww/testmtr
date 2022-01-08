@@ -1,2 +1,3 @@
 #!/bin/bash
-hi
+echo -e "hello shen"
+exit 0
